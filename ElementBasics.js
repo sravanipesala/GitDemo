@@ -50,6 +50,7 @@
    
         console.log("Test is completed");
         console.log("Push from GitX");
+        console.log("Change from GitDemo for develop branch");
 
     });
 
